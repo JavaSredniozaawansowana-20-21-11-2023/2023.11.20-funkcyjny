@@ -1,0 +1,7 @@
+package com.comarch.szkolenia.anonimowe;
+
+public interface Interfejs {
+    void m1();
+    void m2();
+    void m3();
+}
